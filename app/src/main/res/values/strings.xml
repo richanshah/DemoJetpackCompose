@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">DemoJetpackCompose</string>
     <string name="login">Login</string>
+    <string name="jetpack_compose">Compose</string>
     <string name="user_name">Username</string>
     <string name="enter_username">Enter Username</string>
 </resources>
