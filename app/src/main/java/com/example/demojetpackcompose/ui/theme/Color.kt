@@ -22,6 +22,15 @@ val Colors.black: Color
     @Composable
     get() = Color(0xFF000000)
 
+val Colors.darkOrange: Color
+	@Composable
+	get() = Color(0xFFFF5722)
+
+val Colors.darkYellow: Color
+	@Composable
+	get() = Color(0xFFFFC107)
+
+
 val Colors.hintColor: Color
     @Composable
     get() = if (isSystemInDarkTheme()) Color(0xFF7E7D7D) else Color(0xFF7E7D7D)

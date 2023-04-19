@@ -1,4 +1,4 @@
-package com.vv.jetpackcomposedemo.sampleui
+package com.example.demojetpackcompose.sampleui
 
 import android.annotation.SuppressLint
 import android.content.Context
