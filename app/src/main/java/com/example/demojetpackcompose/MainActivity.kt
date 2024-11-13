@@ -22,8 +22,8 @@ class MainActivity : ComponentActivity() {
 				verticalArrangement = Arrangement.Center,
 				horizontalAlignment = Alignment.CenterHorizontally
 			) {
-				StateManageDemo()
-				/*			SampleText()
+//				StateManageDemo()
+							SampleText()
 							SampleSpacer()
 							SampleTextField()
 							SampleSpacer()
@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
 							SampleSpacer()
 							SampleToggles()
 							SampleSpacer()
-							SampleSlider()*/
+							SampleSlider()
 			}
 		}
 

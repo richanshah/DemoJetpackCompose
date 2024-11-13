@@ -53,7 +53,7 @@ fun ItemPreview() {
 		modifier = Modifier.fillMaxSize(),
 		contentAlignment = Alignment.Center
 	) {
-		SampleButton(LocalContext.current)
+		SampleText()
 	}
 
 

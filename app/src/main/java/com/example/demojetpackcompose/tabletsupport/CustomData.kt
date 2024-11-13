@@ -16,7 +16,7 @@ fun dummyDataList(): List<CustomData> {
         list.add(
             CustomData(
                 id = "1 $i++",
-                image = R.drawable.butterfly,
+                image = R.drawable.ic_favorite,
                 title = "Sample Title $i",
                 description = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
             )
